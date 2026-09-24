@@ -18,8 +18,8 @@ The goal was to implement evolutionary learning from first principles without re
 
 The core simulation logic is split between two C# scripts:
 
-* [`Assets/Scripts/Manager.cs`](Assets/Scripts/Manager.cs) – Handles global simulation state, generation lifecycles, fitness evaluation, and genetic operators (selection & mutation).
-* [`Assets/Scripts/Car.cs`](Assets/Scripts/Car.cs) – Implements raycast sensing, matrix forward pass, vehicle physics, and collision handling.
+* [`Assets/Scripts/Manager.cs`](Assets/Scripts/Manager.cs) – Handles global simulation state, generation lifecycles and user's inputs.
+* [`Assets/Scripts/Car.cs`](Assets/Scripts/Simulation.cs) – Implements raycast sensing, Neural network structure & rendering, fitness evaluation, genetic operators (selection & mutation) and vehicle physics.
 
 ## Requirements
 
