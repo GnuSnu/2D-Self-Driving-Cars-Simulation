@@ -5,6 +5,13 @@ using UnityEngine.SceneManagement;
 using System.Linq;
 using TMPro;
 
+/*
+ * NOTE: This codebase was written when I was 15 years old, prior to my involvement
+ * in competitive programming and interest in code optimalization. 
+ * My coding standards, software architecture, and optimization techniques have evolved since then.
+ */
+
+
 public class Manager : MonoBehaviour
 {
     public GameObject car;
