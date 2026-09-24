@@ -3,7 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.Linq;
-public class Car : MonoBehaviour
+
+/*
+ * NOTE: This codebase was written when I was 15 years old, prior to my involvement
+ * in competitive programming and interest in code optimalization. 
+ * My coding standards, software architecture, and optimization techniques have evolved since then.
+ */
+
+
+public class Simulation : MonoBehaviour
 {
     private float MaxSpeed = 0.7f;
     private float Acc = 0.005f;
