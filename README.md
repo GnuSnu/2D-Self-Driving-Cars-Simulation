@@ -2,7 +2,8 @@
 
 A 2D Unity simulation where autonomous agents learn to navigate tracks using a custom feedforward neural network and a genetic algorithm built from scratch in C#.
 
-![Simulation Demo](demo.gif)
+<img width="746" height="438" alt="Adobe Express - 2025-08-11 20-03-14-good (1)" src="https://github.com/user-attachments/assets/c4c573e3-8343-4508-840c-ab42b90d3e5d" />
+
 
 ## Overview
 
